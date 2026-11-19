@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/framefrog-ai/.github/main/profile/assets/avatar.png" alt="FrameFrog aperture mark" width="96" />
+</p>
+
+<p align="center">
   <a href="https://framefrog.me"><img alt="Website framefrog.me" src="https://img.shields.io/badge/website-framefrog.me-10B981?style=for-the-badge&labelColor=0D1117&logo=googlechrome&logoColor=%23E6EDF3" /></a>
   <a href="https://github.com/framefrog-ai/framefrog-pipeline/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/framefrog-ai/framefrog-pipeline/ci.yml?branch=main&label=CI&style=for-the-badge&labelColor=0D1117&color=10B981&logo=github&logoColor=%23E6EDF3" /></a>
   <a href="https://github.com/framefrog-ai/.github/blob/main/LICENSE"><img alt="License AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-10B981?style=for-the-badge&labelColor=0D1117" /></a>
