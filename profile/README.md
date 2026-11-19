@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://framefrog.me"><img alt="Website framefrog.me" src="https://img.shields.io/badge/website-framefrog.me-10B981?style=for-the-badge&labelColor=0D1117&logo=googlechrome&logoColor=%23E6EDF3" /></a>
   <a href="https://github.com/framefrog-ai/framefrog-pipeline/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/framefrog-ai/framefrog-pipeline/ci.yml?branch=main&label=CI&style=for-the-badge&labelColor=0D1117&color=10B981&logo=github&logoColor=%23E6EDF3" /></a>
-  <a href="LICENSE"><img alt="License AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-10B981?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/framefrog-ai/.github/blob/main/LICENSE"><img alt="License AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-10B981?style=for-the-badge&labelColor=0D1117" /></a>
   <a href="mailto:contact@framefrog.me"><img alt="contact@framefrog.me" src="https://img.shields.io/badge/contact-contact%40framefrog.me-10B981?style=for-the-badge&labelColor=0D1117" /></a>
 </p>
 
@@ -64,6 +64,6 @@ python -m framefrog.gpu_check       # verify NVENC / TensorRT / SAM 2 on a GPU h
 
 - Product and API overview: [framefrog.me](https://framefrog.me)
 - Studio work and access: [contact@framefrog.me](mailto:contact@framefrog.me)
-- License: [AGPL-3.0](LICENSE) — network services must offer their source (section 13).
+- License: [AGPL-3.0](https://github.com/framefrog-ai/.github/blob/main/LICENSE) — network services must offer their source (section 13).
 
 <p align="center"><sub>FrameFrog · framefrog.me · #0D1117 / #10B981</sub></p>
