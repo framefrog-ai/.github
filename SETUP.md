@@ -73,3 +73,28 @@ Add topics to both: `video`, `post-production`, `cuda`, `nvidia`, `sam2`,
 - The CI badge resolves to `framefrog-pipeline`'s workflow.
 - The avatar matches the site's charcoal/emerald identity.
 - `framefrog.me` header links back to the organization.
+
+---
+
+## Status (2026-11-19)
+
+Everything below is applied and verified against the live org page.
+
+| Item | State |
+|---|---|
+| Repository | `framefrog-ai/.github` — was created as `github` and renamed; `profile/README.md` renders on the org page |
+| Org display name | `FrameFrog` |
+| Org bio | `Serverless AI video post-production — NVDEC, SAM 2, 3D LUT, RIFE, Real-ESRGAN, NVENC on zero-copy CUDA. framefrog.me` |
+| Org website | `https://framefrog.me` |
+| Org email | `contact@framefrog.me` |
+| Org avatar | the neon FRAMEFROG mark (`site/assets/logo-square-1000.png`); the aperture mark is also shown inside the README |
+| Pinned repositories | `framefrog-pipeline`, then `framefrog.github.io` |
+| Repo description / homepage / topics | set on `framefrog-pipeline`, `framefrog.github.io` and `.github` |
+
+Not possible from git or the API:
+
+- **Social preview image.** GitHub has no organization-level social preview
+  control and no API field for it, so the org's `og:image` is the avatar.
+  `assets/social-preview.png` is kept here for manual use (slides, link
+  previews elsewhere).
+- The `demo-repository` in the org is private and untouched.
