@@ -52,18 +52,7 @@
   <text x="253" y="161" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4.2" fill="#10B981">SERVERLESS AI VIDEO POST-PRODUCTION PIPELINE</text>
   <text x="253" y="205" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="15" fill="#8B949E">NVDEC · DeepFilterNet · SAM 2 · 3D LUT · RIFE · Real-ESRGAN · NVENC</text>
 
-  <g transform="translate(253 232)" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" fill="#64748B" letter-spacing="1.2">
-    <text>ZERO-COPY CUDA</text>
-    <text x="128">NVIDIA L40S / A100</text>
-    <text x="278">4K DELIVERY</text>
-    <text x="380">AGPL-3.0</text>
-  </g>
-
-  <g fill="#10B981">
-    <circle cx="242" cy="228" r="2.2"/>
-    <circle cx="370" cy="228" r="2.2"/>
-    <circle cx="520" cy="228" r="2.2"/>
-  </g>
+  <text x="253" y="232" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" fill="#64748B" letter-spacing="1.1">ZERO-COPY CUDA  ·  NVIDIA L40S / A100  ·  4K DELIVERY  ·  AGPL-3.0</text>
 
   <!-- right-side aperture watermark -->
   <g transform="translate(1030 150)" fill="none" stroke-linecap="round" opacity="0.5">

@@ -32,7 +32,7 @@ These cannot be changed from git; set them in **Organization settings → Profil
 | Email (public) | `contact@framefrog.me` |
 | Location | optional |
 | Avatar | upload `profile/assets/avatar.png` (1000×1000, charcoal + emerald aperture) |
-| Social preview | export `profile/assets/banner.svg` to PNG 1280×640, upload under **Settings → Social preview** |
+| Social preview | upload `assets/social-preview.png` (1280×640, rendered from the banner) under **Settings → Social preview** |
 | README visibility | enabled automatically once `profile/README.md` is pushed |
 
 Theme consistency is achieved through the README itself: GitHub has no custom
