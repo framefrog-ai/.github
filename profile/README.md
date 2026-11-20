@@ -13,7 +13,7 @@
   <a href="mailto:contact@framefrog.me"><img alt="contact@framefrog.me" src="https://img.shields.io/badge/contact-contact%40framefrog.me-10B981?style=for-the-badge&labelColor=0D1117" /></a>
 </p>
 
-<h3 align="center">Video post-production that runs itself — on serverless GPUs.</h3>
+<h3 align="center">Video post-production that runs itself — designed for serverless GPU deployment.</h3>
 
 <p align="center">
   FrameFrog is an AI-native cloud post-production pipeline. Decode, denoise, rotoscope, grade, interpolate, upscale and encode
